@@ -127,5 +127,5 @@ encrypt: # hexo-blog-encrypt
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: 
-        github: git@github.com:1172426418/1172426418.github.io.git,master
+  repo: git@github.com:lujiahao0708/lujiahao0708.github.io.git
+  branch: master
