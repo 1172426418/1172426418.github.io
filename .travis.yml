@@ -17,7 +17,7 @@ script:
 after_script: # 推送到github的部分
   - cd ./public
   - git init
-  - git config user.name "chensi"
+  - git config user.name "1172426418"
   - git config user.email "1172426418@qq.com"
   - git add .
   - git commit -m "Update docs"
