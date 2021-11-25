@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637823250610</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="更新内容">
+      <created>1637823614959</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1637823614959</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,17 +234,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新内容" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637823249661">
+    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637823614008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637823249661" />
+    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637823614008" />
     <state x="811" y="431" key="VCS.ChangelistChooser" timestamp="1637807469342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637823253914">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637823620400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637823253914" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637823620400" />
   </component>
 </project>

@@ -37,5 +37,5 @@ jobs:
           npm install hexo-generator-feed --save
       - name: Hexo deploy
         run: |
-          hexo clean
+          hexo g
           hexo d
