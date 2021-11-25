@@ -1,2 +1,4 @@
 node_modules
 public
+/github-deploy-key
+/github-deploy-key.pub

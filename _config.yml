@@ -129,4 +129,3 @@ deploy:
   type: git
   repo: 
         github: git@github.com:1172426418/1172426418.github.io.git,master
-        coding: git@git.coding.net:cs1172426418/cs1172426418.git,master
