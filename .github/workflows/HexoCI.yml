@@ -33,6 +33,8 @@ jobs:
           npm install
           npm i hexo-theme-ayer -S
           npm install --save hexo-blog-encrypt
+          npm install hexo-generator-searchdb --save
+          npm install hexo-generator-feed --save
       - name: Hexo deploy
         run: |
           hexo clean

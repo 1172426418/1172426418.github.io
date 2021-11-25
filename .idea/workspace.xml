@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="" />
+    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/HexoCI.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/HexoCI.yml" afterDir="false" />
+    </list>
     <list id="54ca1a11-25ea-4467-a718-c60785754bdf" name="Revert &quot;更新内容&quot;" comment="Revert &quot;更新内容&quot;&#10;&#10;This reverts commit 52565597" />
     <list id="ba94a317-6cfc-4da3-b4c3-47d0174939d8" name="更新内容" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637822944360</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="更新内容">
+      <created>1637823250610</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637823250610</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,17 +227,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新内容" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637822943335">
+    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637823249661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637822943335" />
+    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637823249661" />
     <state x="811" y="431" key="VCS.ChangelistChooser" timestamp="1637807469342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637822947203">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637823253914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637822947203" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637823253914" />
   </component>
 </project>
