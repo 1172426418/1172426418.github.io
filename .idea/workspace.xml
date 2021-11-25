@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637825261053</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="更新内容">
+      <created>1637825609613</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1637825609613</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,18 +274,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新内容" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637825260116">
+    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637825608751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637825260116" />
+    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637825608751" />
     <state x="811" y="431" key="VCS.ChangelistChooser" timestamp="1637807469342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637825264566">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637825612799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637825264566" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637825612799" />
     <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637824929610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
