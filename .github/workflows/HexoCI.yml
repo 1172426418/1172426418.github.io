@@ -31,6 +31,7 @@ jobs:
           git config --global user.name "1172426418"
           npm install hexo-cli -g
           npm install
+          npm install --save hexo-blog-encrypt
       - name: Hexo deploy
         run: |
           hexo clean
