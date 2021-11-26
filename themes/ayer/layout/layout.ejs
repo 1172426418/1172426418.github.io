@@ -1,9 +1,9 @@
 <%- partial('_partial/head') %>
-<!-- 音频播放 -->
+<% if (theme.musicS&&theme.musicS.enable){ %>
 <link rel="stylesheet" href="/dist/APlayer.min.css">
-<div id="aplayer"></div>
-<script type="text/javascript" src="/dist/APlayer.min.js"></script>
-<script type="text/javascript" src="/dist/music.js"></script>
+ <%- partial('_partial/musicS') %>
+<% } %>
+
 <body>
   <div id="app">
     <% if (theme.click_effect===2){ %>
