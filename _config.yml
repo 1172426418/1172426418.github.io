@@ -108,6 +108,10 @@ include:
 exclude:
 ignore:
 
+# aplayer播放器配置
+#aplayer:
+#  meting: true
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
