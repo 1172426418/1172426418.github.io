@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -109,8 +109,8 @@ exclude:
 ignore:
 
 # aplayer播放器配置
-#aplayer:
-#  meting: true
+aplayer:
+  meting: true
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
