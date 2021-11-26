@@ -7,14 +7,26 @@ const ap = new APlayer({
         name: "花岡拓也、鶴山尚史 - 王の愛は民のために",
         artist: '花岡拓也、鶴山尚史',
         url: '/mp3/花岡拓也、鶴山尚史 - 王の愛は民のために.mp3',
-        cover: 'http://img.ytmp3.cn/image/52.jpg',
+        cover: 'https://z3.ax1x.com/2021/11/26/oV3kM8.jpg',
       },
+        {
+            name: 'HEATS',
+            artist: 'V.A.',
+            url: '/mp3/HEATS.mp3',
+            cover: 'https://z3.ax1x.com/2021/11/26/oVt0bT.jpg',
+        },
       {
-        name: '一百万个可能(Live)',
-        artist: '摩登兄弟',
-        url: 'http://www.ytmp3.cn/down/52772.mp3',
-        cover: 'http://img.ytmp3.cn/image/53.jpg',
+        name: 'UNTRUE CRYSTAL',
+        artist: '花岡拓也、鶴山尚史',
+        url: '/mp3/UNTRUE CRYSTAL.mp3',
+        cover: 'https://z3.ax1x.com/2021/11/26/oVt2x1.jpg',
       },
+        {
+            name: '天の金剛',
+            artist: '花岡拓也、鶴山尚史',
+            url: '/mp3/天の金剛.mp3',
+            cover: 'https://s3.bmp.ovh/imgs/2021/11/c117848e5ac3403e.jpg',
+        },
 
     ]
 });
