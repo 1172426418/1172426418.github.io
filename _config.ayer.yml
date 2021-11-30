@@ -137,6 +137,7 @@ music:
 #本地音乐播放器
 musicS:
   enable: true
+  type: 2
   # 播放器尺寸类型(1：小尺寸、2：大尺寸)
 
 

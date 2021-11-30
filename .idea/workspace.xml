@@ -25,8 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="新增歌曲">
-      <change afterPath="$PROJECT_DIR$/themes/ayer/layout/_partial/musicS.ejs" afterDir="false" />
+    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.ayer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.ayer.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/layout/_partial/music.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/layout/_partial/music.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/source/dist/APlayer.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/dist/APlayer.min.css" afterDir="false" />
     </list>
     <list id="54ca1a11-25ea-4467-a718-c60785754bdf" name="Revert &quot;更新内容&quot;" comment="Revert &quot;更新内容&quot;&#10;&#10;This reverts commit 52565597" />
     <list id="ba94a317-6cfc-4da3-b4c3-47d0174939d8" name="更新内容" comment="" />
@@ -78,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1637806565910</updated>
       <workItem from="1637806567146" duration="3705000" />
-      <workItem from="1637890089098" duration="19625000" />
+      <workItem from="1637890089098" duration="20332000" />
+      <workItem from="1638260219049" duration="1871000" />
     </task>
     <task id="LOCAL-00001" summary="更新内容">
       <created>1637806662786</created>
@@ -353,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637920370838</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="新增歌曲">
+      <created>1637920951388</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1637920951388</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,23 +400,23 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="更新内容" />
     <MESSAGE value="新增播放器" />
-    <MESSAGE value="新增歌曲" />
     <MESSAGE value="新增播放器开关配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增播放器开关配置" />
+    <MESSAGE value="新增歌曲" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增歌曲" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637920369294">
+    <state x="609" y="109" key="CommitChangelistDialog2" timestamp="1637920950405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637920369294" />
+    <state x="609" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1637920950405" />
     <state x="811" y="431" key="VCS.ChangelistChooser" timestamp="1637807469342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637920386747">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1637920954929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637920386747" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637920954929" />
     <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637824929610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
