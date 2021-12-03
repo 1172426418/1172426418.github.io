@@ -26,12 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="新增seo">
+      <change afterPath="$PROJECT_DIR$/themes/ayer/layout/_partial/pjax.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.ayer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.ayer.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/layout/_partial/musicS.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/layout/_partial/musicS.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/layout/_partial/post/valine.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/layout/_partial/post/valine.ejs" afterDir="false" />
     </list>
     <list id="54ca1a11-25ea-4467-a718-c60785754bdf" name="Revert &quot;更新内容&quot;" comment="Revert &quot;更新内容&quot;&#10;&#10;This reverts commit 52565597" />
     <list id="ba94a317-6cfc-4da3-b4c3-47d0174939d8" name="更新内容" comment="" />
@@ -68,8 +67,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/ayer/source/dist" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\ayer\source\dist" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,7 +89,9 @@
       <workItem from="1637806567146" duration="3705000" />
       <workItem from="1637890089098" duration="20332000" />
       <workItem from="1638260219049" duration="5321000" />
-      <workItem from="1638340392283" duration="942000" />
+      <workItem from="1638340392283" duration="11641000" />
+      <workItem from="1638410134684" duration="16546000" />
+      <workItem from="1638494097972" duration="11001000" />
     </task>
     <task id="LOCAL-00001" summary="更新内容">
       <created>1637806662786</created>
@@ -374,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638263019935</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="新增seo">
+      <created>1638343715023</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1638343715023</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,29 +425,34 @@
     <MESSAGE value="新增播放器开关配置" />
     <MESSAGE value="新增歌曲" />
     <MESSAGE value="新增播放器完全收入侧边栏" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增播放器完全收入侧边栏" />
+    <MESSAGE value="新增seo" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增seo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2" timestamp="1638343568748">
+    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2" timestamp="1638439596743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638343568748" />
+    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638439596743" />
+    <state x="739" y="240" key="RollbackChangesDialog" timestamp="1638518584414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638518584414" />
     <state x="811" y="431" key="VCS.ChangelistChooser" timestamp="1637807469342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1638263025319">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1638343719571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638263025319" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638343719571" />
     <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637824929610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637824929610" />
-    <state x="669" y="255" width="582" height="530" key="find.popup" timestamp="1637919508997">
+    <state x="894" y="352" width="582" height="530" key="find.popup" timestamp="1638501426743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="255" width="582" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1637919508997" />
+    <state x="894" y="352" width="582" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638501426743" />
     <state x="658" y="306" key="git4idea.merge.GitPullDialog" timestamp="1637917883386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
