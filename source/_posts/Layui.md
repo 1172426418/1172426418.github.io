@@ -23,7 +23,26 @@ parent.location.reload();
 $(document).on('click',"#export",function(){}}
 ```
 
-4.区间金额验证 
+4.单页显示表格所有数据
+
+```javascript
+table.render({
+    elem: '#test0'
+    ,limit: Number.MAX_VALUE // 数据表格默认全部显示
+    ,cols: [[
+        {field:'nodeSort',width: 180, title: '节点顺序'}
+        ,{field:'nodeName',width: 180, title: '节点名称'}
+        ,{field:'userName',width: 687, title: '用户名称'}
+    ]]
+    ,id: 'testReload0'
+    ,data:{}
+
+});
+```
+
+
+
+5.区间金额验证 
 
 ```javascript
 if(moneyVerify('gteMoney','lteMoney') === false){

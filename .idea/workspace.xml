@@ -25,11 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="新增pjax，bug多未引入">
+    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Layui.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Layui.md" afterDir="false" />
     </list>
     <list id="54ca1a11-25ea-4467-a718-c60785754bdf" name="Revert &quot;更新内容&quot;" comment="Revert &quot;更新内容&quot;&#10;&#10;This reverts commit 52565597" />
     <list id="ba94a317-6cfc-4da3-b4c3-47d0174939d8" name="更新内容" comment="" />
@@ -98,7 +96,9 @@
       <workItem from="1639098243426" duration="3154000" />
       <workItem from="1639357750303" duration="650000" />
       <workItem from="1639444344462" duration="717000" />
-      <workItem from="1640871061813" duration="2183000" />
+      <workItem from="1640871061813" duration="2972000" />
+      <workItem from="1640913121229" duration="735000" />
+      <workItem from="1641374115411" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="更新内容">
       <created>1637806662786</created>
@@ -401,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638519191983</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="新增文章">
+      <created>1640873430383</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1640873430383</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,17 +448,18 @@
     <MESSAGE value="新增播放器完全收入侧边栏" />
     <MESSAGE value="新增seo" />
     <MESSAGE value="新增pjax，bug多未引入" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增pjax，bug多未引入" />
+    <MESSAGE value="新增文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增文章" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2" timestamp="1639015365721">
+    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2" timestamp="1640873428580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1639015365721" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1639357794261">
+    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1640873428580" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1640914118230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639357794261" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1640914118230" />
     <state x="739" y="240" key="RollbackChangesDialog" timestamp="1638518635181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -460,10 +468,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1638519204558">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1640873436313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638519204558" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1640873436313" />
     <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637824929610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
