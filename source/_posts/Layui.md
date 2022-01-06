@@ -20,10 +20,20 @@ parent.location.reload();
 3.渲染的按钮无法绑定事件时使用此方法
 
 ```javascript
-$(document).on('click',"#export",function(){}}
+$(document).on('click',"#export",function(){})
 ```
 
-4.单页显示表格所有数据
+4.JQuery遍历数组对象
+
+```javascript
+var ids=[];
+$.each(obj,function(n,value) {
+    ids.push(value.id)
+});
+```
+
+
+5.单页显示表格所有数据
 
 ```javascript
 table.render({
@@ -42,7 +52,7 @@ table.render({
 
 
 
-5.区间金额验证 
+6.区间金额验证 
 
 ```javascript
 if(moneyVerify('gteMoney','lteMoney') === false){
