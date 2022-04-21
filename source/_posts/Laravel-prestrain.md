@@ -7,7 +7,7 @@ tags:
 ---
 **1.预加载**
 应用场景：在一个商品表里面的商品分类字段category_id,要在商品分类列表里面直接获取到分类的名字，那么必须要从商品分类表product_category里通过category_id来获取category_name。
-
+<!--more-->
 首先获取商品表数据：
 ```php
     	public function index() {

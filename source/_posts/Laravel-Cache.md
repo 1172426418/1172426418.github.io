@@ -8,7 +8,7 @@ tags:
 ---
 1,Cache的使用
 Laravel目前支持流行的缓存后端包括Memcached和Redis等，下面说的是数据库缓存：
-
+<!--more-->
 使用database缓存驱动时，你需要设置一张表包含缓存缓存项。下面是该表的Schema声明：
 ```php
     Schema::create('cache', function (Blueprint $table) {

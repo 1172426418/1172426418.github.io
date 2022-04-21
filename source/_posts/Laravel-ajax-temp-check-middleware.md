@@ -11,6 +11,7 @@ tags:
 ---
 1.ajax
 使用ajax传递数据必须带上_token字段:
+<!--more-->
 ```php
     $.ajax({
     type:'post',

@@ -12,6 +12,7 @@ tags:
 是因为php没有开启Mysqlnd扩展，php5以上版本已经在使用mysqlnd驱动而非mysql，至于mysqlnd可自行百度了解。且在php7则正式移除了mysql扩展。
 
 在使用phpinfo()打印php信息的时候并没有显示mysqlnd扩展
+<!--more-->
 ```php
     yum install php70w-mysqlnd
     systemctl restart php-fpm

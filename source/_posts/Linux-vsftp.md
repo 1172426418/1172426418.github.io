@@ -6,7 +6,7 @@ tags:
 description: #你對本頁的描述 可以省略
 ---
 之前一直用的是windows下的FlashFXP，现在用的Linux服务器（Centos 7.1），为了方便上传项目，安装vsftpd。
-
+<!--more-->
 1.安装vsftpd
 ```php
     yum -y install vsftpd

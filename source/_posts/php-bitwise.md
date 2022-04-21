@@ -7,7 +7,7 @@ tags:
 ---
 # 位运算符 #
 作用是对二进制位从低到高位对齐后进行运算，其他进制需要先转换为二进制再运算
-
+<!--more-->
 <table><thead><tr><th>符号</th><th>作用</th><th>举例</th><th>个人理解</th></tr></thead><tbody><tr><td>&amp;</td><td>按位与</td><td><code>$m &amp; $n</code></td><td>全1为1，否则为0</td></tr><tr><td>|</td><td>按位或</td><td><code>$m | $n</code></td><td>全0为0，有1为1</td></tr><tr><td>^</td><td>按位异或</td><td><code>$m ^ $n</code></td><td>不同为1，相同为0</td></tr><tr><td>~</td><td>按位取反</td><td><code>~$m</code></td><td></td></tr><tr><td>&lt;&lt;</td><td>向左移位</td><td><code>$m &lt;&lt; $n</code></td><td>乘以2的n次方</td></tr><tr><td>&gt;&gt;</td><td>向右移位</td><td><code>$m &gt;&gt; $n</code></td><td>除以2的n次方</td></tr></tbody></table>
 
 ## &运算符 ##

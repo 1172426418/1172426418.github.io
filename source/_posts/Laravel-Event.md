@@ -10,7 +10,7 @@ tags:
 **1.事件监听**
 
 有时候我们需要在执行完一步操作后自动执行下一步事件，比如在用户购买商品后增加到购买记录的同时将商品增加到订单表中。
-
+<!--more-->
 首先需要注册事件/监听器，在`\app\Providers\EventServiceProvider.php`文件中
 ```php
 	protected $listen = [

@@ -8,6 +8,7 @@ tags:
 1.Mysql触发器
 
 适用案例，删除订单同时删除订单详情：
+<!--more-->
 ```php
     CREATE TRIGGER del_orderdetails AFTER DELETE ON ms_order FOR EACH ROW
     BEGIN

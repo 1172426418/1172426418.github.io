@@ -8,7 +8,7 @@ tags:
 ---
 **1.有的网站无法用响应式来完成移动端的浏览效果，就要写一套移动端的代码来代替原有视图模板**
 首先需要添加支持设备识别的Laravel扩展，这里以Jenssegers为例：
-
+<!--more-->
 添加扩展：
 ```php
     composer require jenssegers/agent

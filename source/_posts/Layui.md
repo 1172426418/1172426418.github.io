@@ -10,7 +10,7 @@ tags:
 ```javascript
 load = layer.load(1,{shade:[0.5,'#000']});
 ```
-
+<!--more-->
 2.刷新弹出层父级页面
 
 ```javascript

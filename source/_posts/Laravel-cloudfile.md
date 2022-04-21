@@ -9,7 +9,7 @@ tags:
 **laravel5结合七牛云存储图片**
 
 首先去官网注册账号以及完成实名认证[https://www.qiniu.com/](https://www.qiniu.com/)
-
+<!--more-->
 1.新建对象存储
 
 ![](https://i.imgur.com/KIE1F52.png)

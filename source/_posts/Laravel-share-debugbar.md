@@ -8,7 +8,7 @@ tags:
 ---
 1.多视图共享数据
 如题，如果我们有一些固定的网站内容，如联系方式，客服扣扣等，需要放在公用视图模板的头部或底部，如这样：
-
+<!--more-->
 在home.blade.php中
 ```php
             <p>手机：{{$config->linktel}} 丨 邮箱：{{$config->linkemail}} 丨 地址：{{$config->linkadress}}</p>

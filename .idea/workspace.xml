@@ -16,21 +16,63 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:hexo" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="">
+    <list default="true" id="91cc3ae4-2426-4f91-9873-758a93f6c9f3" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/next/layout/tag-color.swig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/styles.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/HEATS.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/UNTRUE CRYSTAL.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/天の金剛.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/花岡拓也、鶴山尚史 - 王の愛は民のために.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Centos-LNMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Centos-LNMP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Centos7-https.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Centos7-https.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-Windows.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-Windows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-Cache.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-Cache.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-Event.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-Event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-Queue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-UEditor-form.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-UEditor-form.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-ajax-temp-check-middleware.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-ajax-temp-check-middleware.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-cloudfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-cloudfile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-imgupload.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-imgupload.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-mobile.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-mobile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-prestrain.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-prestrain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-share-debugbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-share-debugbar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/Layui.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Layui.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux-mysql-remote.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux-mysql-remote.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux-vsftp.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux-vsftp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Mysql-sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Mysql-sum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/PHP-non-polar-classification.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/PHP-non-polar-classification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Thinkphp-jquery-imgupload.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Thinkphp-jquery-imgupload.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php-basicsort.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-basicsort.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php-bitwise.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-bitwise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php-question1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-question1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php-queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-queue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/phpalgorithm-erfen.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/phpalgorithm-erfen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_layout.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_layout.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/page.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/page.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" afterDir="false" />
     </list>
-    <list id="54ca1a11-25ea-4467-a718-c60785754bdf" name="Revert &quot;更新内容&quot;" comment="Revert &quot;更新内容&quot;&#10;&#10;This reverts commit 52565597" />
-    <list id="ba94a317-6cfc-4da3-b4c3-47d0174939d8" name="更新内容" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,23 +81,29 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
   </component>
-  <component name="ProjectId" id="21OKCTLUtUUHjSOToXOOEo5N3OL" />
+  <component name="ProjectId" id="280moKve9duwXYLwFC6w2ISG3c3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,12 +112,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\ayer\source\dist" />
+      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\next\source\css\_schemes\Gemini" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\next\source\_data" />
+      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\next\source\css\_schemes\Gemini" />
+      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\next\source" />
+      <recent name="D:\phpstudy_pro\WWW\1172426418.github.io\themes\next\source\css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -77,346 +131,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1849026f-708f-4957-ae31-8708fa598a8b" name="默认的" comment="" />
-      <changelist id="ba94a317-6cfc-4da3-b4c3-47d0174939d8" name="更新内容" comment="" />
-      <created>1637806565910</created>
+      <changelist id="91cc3ae4-2426-4f91-9873-758a93f6c9f3" name="默认的" comment="" />
+      <created>1650362050508</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637806565910</updated>
-      <workItem from="1637806567146" duration="3705000" />
-      <workItem from="1637890089098" duration="20332000" />
-      <workItem from="1638260219049" duration="5321000" />
-      <workItem from="1638340392283" duration="11641000" />
-      <workItem from="1638410134684" duration="16546000" />
-      <workItem from="1638494097972" duration="12205000" />
-      <workItem from="1638753946036" duration="599000" />
-      <workItem from="1638839216289" duration="36000" />
-      <workItem from="1638959115481" duration="430000" />
-      <workItem from="1639012870429" duration="7679000" />
-      <workItem from="1639098243426" duration="3154000" />
-      <workItem from="1639357750303" duration="650000" />
-      <workItem from="1639444344462" duration="717000" />
-      <workItem from="1640871061813" duration="2972000" />
-      <workItem from="1640913121229" duration="735000" />
-      <workItem from="1641374115411" duration="433000" />
-      <workItem from="1641471347169" duration="188000" />
+      <updated>1650362050508</updated>
+      <workItem from="1650362051721" duration="438000" />
+      <workItem from="1650362497185" duration="717000" />
+      <workItem from="1650451755822" duration="612000" />
+      <workItem from="1650506124569" duration="16410000" />
     </task>
-    <task id="LOCAL-00001" summary="更新内容">
-      <created>1637806662786</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1637806662786</updated>
-    </task>
-    <task id="LOCAL-00002" summary="更新内容">
-      <created>1637807362656</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1637807362656</updated>
-    </task>
-    <task id="LOCAL-00003" summary="更新内容">
-      <created>1637808013998</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1637808013998</updated>
-    </task>
-    <task id="LOCAL-00004" summary="更新内容">
-      <created>1637808937806</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1637808937806</updated>
-    </task>
-    <task id="LOCAL-00005" summary="更新内容">
-      <created>1637809761885</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1637809761886</updated>
-    </task>
-    <task id="LOCAL-00006" summary="更新内容">
-      <created>1637810868503</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1637810868503</updated>
-    </task>
-    <task id="LOCAL-00007" summary="更新内容">
-      <created>1637810957364</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1637810957364</updated>
-    </task>
-    <task id="LOCAL-00008" summary="更新内容">
-      <created>1637811994358</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1637811994358</updated>
-    </task>
-    <task id="LOCAL-00009" summary="更新内容">
-      <created>1637820573333</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1637820573333</updated>
-    </task>
-    <task id="LOCAL-00010" summary="更新内容">
-      <created>1637821332031</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1637821332031</updated>
-    </task>
-    <task id="LOCAL-00011" summary="更新内容">
-      <created>1637822277239</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1637822277239</updated>
-    </task>
-    <task id="LOCAL-00012" summary="更新内容">
-      <created>1637822399885</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1637822399885</updated>
-    </task>
-    <task id="LOCAL-00013" summary="更新内容">
-      <created>1637822474537</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1637822474537</updated>
-    </task>
-    <task id="LOCAL-00014" summary="更新内容">
-      <created>1637822566570</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1637822566570</updated>
-    </task>
-    <task id="LOCAL-00015" summary="更新内容">
-      <created>1637822770212</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1637822770212</updated>
-    </task>
-    <task id="LOCAL-00016" summary="更新内容">
-      <created>1637822944360</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1637822944360</updated>
-    </task>
-    <task id="LOCAL-00017" summary="更新内容">
-      <created>1637823250610</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1637823250610</updated>
-    </task>
-    <task id="LOCAL-00018" summary="更新内容">
-      <created>1637823614959</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1637823614959</updated>
-    </task>
-    <task id="LOCAL-00019" summary="更新内容">
-      <created>1637824231873</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1637824231873</updated>
-    </task>
-    <task id="LOCAL-00020" summary="更新内容">
-      <created>1637824474192</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1637824474192</updated>
-    </task>
-    <task id="LOCAL-00021" summary="更新内容">
-      <created>1637824686689</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1637824686689</updated>
-    </task>
-    <task id="LOCAL-00022" summary="更新内容">
-      <created>1637825172486</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1637825172486</updated>
-    </task>
-    <task id="LOCAL-00023" summary="更新内容">
-      <created>1637825261053</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1637825261053</updated>
-    </task>
-    <task id="LOCAL-00024" summary="更新内容">
-      <created>1637825609613</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1637825609613</updated>
-    </task>
-    <task id="LOCAL-00025" summary="更新内容">
-      <created>1637826680761</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1637826680761</updated>
-    </task>
-    <task id="LOCAL-00026" summary="更新内容">
-      <created>1637826871965</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1637826871965</updated>
-    </task>
-    <task id="LOCAL-00027" summary="更新内容">
-      <created>1637827684127</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1637827684127</updated>
-    </task>
-    <task id="LOCAL-00028" summary="更新内容">
-      <created>1637828159493</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1637828159493</updated>
-    </task>
-    <task id="LOCAL-00029" summary="更新内容">
-      <created>1637828335366</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1637828335366</updated>
-    </task>
-    <task id="LOCAL-00030" summary="更新内容">
-      <created>1637828396763</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1637828396763</updated>
-    </task>
-    <task id="LOCAL-00031" summary="更新内容">
-      <created>1637828524234</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1637828524234</updated>
-    </task>
-    <task id="LOCAL-00032" summary="更新内容">
-      <created>1637828633831</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1637828633831</updated>
-    </task>
-    <task id="LOCAL-00033" summary="更新内容">
-      <created>1637828713900</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1637828713900</updated>
-    </task>
-    <task id="LOCAL-00034" summary="更新内容">
-      <created>1637829562275</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1637829562275</updated>
-    </task>
-    <task id="LOCAL-00035" summary="更新内容">
-      <created>1637895572518</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1637895572518</updated>
-    </task>
-    <task id="LOCAL-00036" summary="新增播放器">
-      <created>1637907715788</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1637907715788</updated>
-    </task>
-    <task id="LOCAL-00037" summary="新增歌曲">
-      <created>1637916469013</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1637916469013</updated>
-    </task>
-    <task id="LOCAL-00038" summary="新增歌曲">
-      <created>1637917258228</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1637917258228</updated>
-    </task>
-    <task id="LOCAL-00039" summary="新增播放器开关配置">
-      <created>1637920370838</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1637920370838</updated>
-    </task>
-    <task id="LOCAL-00040" summary="新增歌曲">
-      <created>1637920951388</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1637920951388</updated>
-    </task>
-    <task id="LOCAL-00041" summary="新增播放器完全收入侧边栏">
-      <created>1638263019935</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1638263019935</updated>
-    </task>
-    <task id="LOCAL-00042" summary="新增seo">
-      <created>1638343715023</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1638343715023</updated>
-    </task>
-    <task id="LOCAL-00043" summary="新增pjax，bug多未引入">
-      <created>1638519191983</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1638519191983</updated>
-    </task>
-    <task id="LOCAL-00044" summary="新增文章">
-      <created>1640873430383</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1640873430383</updated>
-    </task>
-    <task id="LOCAL-00045" summary="新增文章">
-      <created>1641374246723</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1641374246723</updated>
-    </task>
-    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,74 +151,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="hexo" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="更新内容" />
-    <MESSAGE value="新增播放器" />
-    <MESSAGE value="新增播放器开关配置" />
-    <MESSAGE value="新增歌曲" />
-    <MESSAGE value="新增播放器完全收入侧边栏" />
-    <MESSAGE value="新增seo" />
-    <MESSAGE value="新增pjax，bug多未引入" />
-    <MESSAGE value="新增文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增文章" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2" timestamp="1641374245496">
+    <state x="792" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650531454250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="609" y="109" width="1051" height="821" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1641374245496" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1640914118230">
+    <state x="792" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1650531454250" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1650533225715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1640914118230" />
-    <state x="739" y="240" key="RollbackChangesDialog" timestamp="1638518635181">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1650533225715" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1650362613210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638518635181" />
-    <state x="811" y="431" key="VCS.ChangelistChooser" timestamp="1637807469342">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1650362613210" />
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650363355274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="811" y="431" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637807469342" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1641374250112">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1641374250112" />
-    <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637824929610">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="783" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1637824929610" />
-    <state x="894" y="352" width="582" height="530" key="find.popup" timestamp="1640872659948">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="894" y="352" width="582" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1640872659948" />
-    <state x="658" y="306" key="git4idea.merge.GitPullDialog" timestamp="1637917883386">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="658" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637917883386" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1640872657700">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1640872657700" />
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650363355274" />
   </component>
 </project>

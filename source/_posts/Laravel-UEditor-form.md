@@ -9,7 +9,7 @@ tags:
 ---
 1.富文本编辑器（UEditor）
 laravel的依赖管理工具composer中可以快速的帮助我们集成ueditor到框架中，配置过程：
-
+<!--more-->
 在laravel项目根目录配置composer.json文件，在require中写入：
 ```php
     "stevenyangecho/laravel-u-editor": "~1.4"

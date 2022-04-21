@@ -10,6 +10,7 @@ tags:
 1.必须是索引数组，即键为数字
 
 2.必须是已经排好序的数字，即键从小到大或者从大到小排序
+<!--more-->
 ```php    
     function bin_sch($array,  $low, $high, $k){
     if ( $low <= $high){//判断开始点是否小于等于终点

@@ -5,7 +5,7 @@
 # Site
 title: IMCSI
 subtitle: 
-description: 陈思的个人博客,记录个人的学习心得以及分享一些技术,包括thinkphp，laravel等相关框架
+description: 记录个人的学习心得以及分享一些技术
 keywords: 博客,个人博客,imcsi,陈思,陈思个人博客,imcsi.cn,php博客,phper心得,php个人博客,laravel博客
 author: C S
 language: zh-CN
@@ -144,7 +144,7 @@ neat_js:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: next
 
 encrypt: # hexo-blog-encrypt
   abstract: 有东西被加密了, 请输入密码查看.

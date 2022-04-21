@@ -6,7 +6,7 @@ tags:
 	tp
 ---
 网上查找了很多方法，有的多图上传是通过html添加多个input框type=file，然后在后台遍历循环$_FILES实现一张张上传图片。还有一种就是通过jq将图片转码成base64来将图片存储成字符串的形式，然后后台将获取到的字符串通过解码成图片文件保存，这里要说的就是这种方法。
-
+<!--more-->
 html页面主要部分如下：
 ```php
             <div class="weui-cells weui-cells_form" id="uploader">

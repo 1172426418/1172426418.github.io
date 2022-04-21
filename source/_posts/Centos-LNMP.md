@@ -13,6 +13,7 @@ tags:
 ```php
 rpm -Uvh http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm
 ```
+<!--more-->
 安装：
 ```php
 yum -y install nginx
