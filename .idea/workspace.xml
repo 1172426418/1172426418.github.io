@@ -19,59 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91cc3ae4-2426-4f91-9873-758a93f6c9f3" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/next/layout/tag-color.swig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/styles.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/APlayer.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/dist/music.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/HEATS.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/UNTRUE CRYSTAL.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/天の金剛.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/mp3/花岡拓也、鶴山尚史 - 王の愛は民のために.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Centos-LNMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Centos-LNMP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Centos7-https.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Centos7-https.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-Windows.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-Windows.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-Cache.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-Cache.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-Event.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-Event.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-Queue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-UEditor-form.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-UEditor-form.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-ajax-temp-check-middleware.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-ajax-temp-check-middleware.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-cloudfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-cloudfile.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-imgupload.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-imgupload.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-mobile.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-mobile.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-prestrain.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-prestrain.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Laravel-share-debugbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Laravel-share-debugbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Layui.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Layui.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Linux-mysql-remote.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux-mysql-remote.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Linux-vsftp.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux-vsftp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Mysql-sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Mysql-sum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/PHP-non-polar-classification.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/PHP-non-polar-classification.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Thinkphp-jquery-imgupload.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Thinkphp-jquery-imgupload.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/php-basicsort.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-basicsort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/php-bitwise.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-bitwise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/php-question1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-question1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/php-queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-queue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/phpalgorithm-erfen.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/phpalgorithm-erfen.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-CN.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/layout/_layout.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_layout.swig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/post.swig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/layout/page.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/page.swig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini/index.styl" afterDir="false" />
+    <list default="true" id="91cc3ae4-2426-4f91-9873-758a93f6c9f3" name="默认的" comment="更换主题">
+      <change afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +49,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="280moKve9duwXYLwFC6w2ISG3c3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -114,6 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/next/source/css/_schemes/Gemini" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -139,8 +89,23 @@
       <workItem from="1650362051721" duration="438000" />
       <workItem from="1650362497185" duration="717000" />
       <workItem from="1650451755822" duration="612000" />
-      <workItem from="1650506124569" duration="16410000" />
+      <workItem from="1650506124569" duration="16650000" />
     </task>
+    <task id="LOCAL-00001" summary="更换主题">
+      <created>1650535448913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650535448913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更换主题">
+      <created>1650535507035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650535507035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +123,13 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/themes/next" />
+    </ignored-roots>
+    <MESSAGE value="更换主题" />
+    <option name="LAST_COMMIT_MESSAGE" value="更换主题" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="792" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650531454250">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -171,6 +143,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1650362613210" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1650535611403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650535611403" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1650535536753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650535536753" />
     <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650363355274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
