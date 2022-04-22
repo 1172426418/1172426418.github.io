@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="91cc3ae4-2426-4f91-9873-758a93f6c9f3" name="默认的" comment="更换主题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,8 @@
       <workItem from="1650362497185" duration="717000" />
       <workItem from="1650451755822" duration="612000" />
       <workItem from="1650506124569" duration="16721000" />
-      <workItem from="1650535693233" duration="744000" />
+      <workItem from="1650535693233" duration="3254000" />
+      <workItem from="1650594570944" duration="2343000" />
     </task>
     <task id="LOCAL-00001" summary="更换主题">
       <created>1650535448913</created>
@@ -155,13 +158,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650535611403" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1650535741279">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1650537337767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650535741279" />
-    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650363355274">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650537337767" />
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650536634064">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650363355274" />
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1650536634064" />
   </component>
 </project>
