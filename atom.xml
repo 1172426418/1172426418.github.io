@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IMCSI</title>
+  
+  
+  <link href="https://imcsi.cn/atom.xml" rel="self"/>
+  
+  <link href="https://imcsi.cn/"/>
+  <updated>2022-04-22T08:31:08.646Z</updated>
+  <id>https://imcsi.cn/</id>
+  
+  <author>
+    <name>C S</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Laravel使用（关联数据预加载）</title>
+    <link href="https://imcsi.cn/2022/04/22/Laravel-prestrain/"/>
+    <id>https://imcsi.cn/2022/04/22/Laravel-prestrain/</id>
+    <published>2022-04-22T08:31:08.646Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1.预加载&lt;/strong&gt;&lt;br&gt;应用场景：在一个商品表里面的商品分类字段category_id,要在商品分类列表里面直接获取到分类的名字，那么必须要从商品分类表product_category里通过category_id来获取category_name。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="预加载" scheme="https://imcsi.cn/tags/%E9%A2%84%E5%8A%A0%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Layui相关技巧</title>
+    <link href="https://imcsi.cn/2021/12/30/Layui/"/>
+    <id>https://imcsi.cn/2021/12/30/Layui/</id>
+    <published>2021-12-30T21:59:41.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1.添加半遮罩请求中状态弹出层&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;load = layer.load(&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;,&amp;#123;&lt;span class=&quot;attr&quot;&gt;shade&lt;/span&gt;:[&lt;span class=&quot;number&quot;&gt;0.5&lt;/span&gt;,&lt;span class=&quot;string&quot;&gt;&amp;#x27;#000&amp;#x27;&lt;/span&gt;]&amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="前端" scheme="https://imcsi.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Layui" scheme="https://imcsi.cn/tags/Layui/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php只出现一次的数字问题</title>
+    <link href="https://imcsi.cn/2019/01/22/php-question1/"/>
+    <id>https://imcsi.cn/2019/01/22/php-question1/</id>
+    <published>2019-01-22T15:30:16.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;题目描述&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="算法" scheme="https://imcsi.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql相关小技巧总结在这里</title>
+    <link href="https://imcsi.cn/2018/11/24/Mysql-sum/"/>
+    <id>https://imcsi.cn/2018/11/24/Mysql-sum/</id>
+    <published>2018-11-24T14:42:47.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1.Mysql触发器&lt;/p&gt;
+&lt;p&gt;适用案例，删除订单同时删除订单详情：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Mysql" scheme="https://imcsi.cn/categories/Mysql/"/>
+    
+    
+    <category term="mysql" scheme="https://imcsi.cn/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php基础算法</title>
+    <link href="https://imcsi.cn/2018/11/24/php-basicsort/"/>
+    <id>https://imcsi.cn/2018/11/24/php-basicsort/</id>
+    <published>2018-11-24T14:42:47.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1.冒泡排序&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;冒泡排序（Bubble Sort，台湾译为：泡沫排序或气泡排序）是一种简单的排序算法。它重复地走访过要排序的数列，依次比较两个元素，如果他们的顺序错误就把他们交换过来。走访数列的工作是重复地进行直到没有再需要交换，也就是说该数列已经排序完成。这个算法的名字由来是因为越小的元素会经由交换慢慢“浮”到数列的顶端。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="算法" scheme="https://imcsi.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php算法之二分查找</title>
+    <link href="https://imcsi.cn/2018/11/24/phpalgorithm-erfen/"/>
+    <id>https://imcsi.cn/2018/11/24/phpalgorithm-erfen/</id>
+    <published>2018-11-24T14:42:47.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;首先是二分查找算法的前提：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.必须是索引数组，即键为数字&lt;/p&gt;
+&lt;p&gt;2.必须是已经排好序的数字，即键从小到大或者从大到小排序&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="算法" scheme="https://imcsi.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php-队列和栈</title>
+    <link href="https://imcsi.cn/2018/08/23/php-queue/"/>
+    <id>https://imcsi.cn/2018/08/23/php-queue/</id>
+    <published>2018-08-23T20:02:29.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;PHP里面没有栈和队列，但是可以通过数组来模拟，主要用到以下几个函数：&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;array_push   数组末尾增加一个元素 &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;array_pop　　数组末尾删除一个元素 &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;array_shift　数组头部删除一个元素&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="队列" scheme="https://imcsi.cn/tags/%E9%98%9F%E5%88%97/"/>
+    
+    <category term="栈" scheme="https://imcsi.cn/tags/%E6%A0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php-位运算</title>
+    <link href="https://imcsi.cn/2018/08/23/php-bitwise/"/>
+    <id>https://imcsi.cn/2018/08/23/php-bitwise/</id>
+    <published>2018-08-23T19:35:10.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;位运算符&quot;&gt;&lt;a href=&quot;#位运算符&quot; class=&quot;headerlink&quot; title=&quot;位运算符&quot;&gt;&lt;/a&gt;位运算符&lt;/h1&gt;&lt;p&gt;作用是对二进制位从低到高位对齐后进行运算，其他进制需要先转换为二进制再运算&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="位运算" scheme="https://imcsi.cn/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（检测移动端并加载视图）</title>
+    <link href="https://imcsi.cn/2018/06/13/Laravel-mobile/"/>
+    <id>https://imcsi.cn/2018/06/13/Laravel-mobile/</id>
+    <published>2018-06-13T14:25:18.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1.有的网站无法用响应式来完成移动端的浏览效果，就要写一套移动端的代码来代替原有视图模板&lt;/strong&gt;&lt;br&gt;首先需要添加支持设备识别的Laravel扩展，这里以Jenssegers为例：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="views" scheme="https://imcsi.cn/tags/views/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（七牛云存储图片）</title>
+    <link href="https://imcsi.cn/2018/05/26/Laravel-cloudfile/"/>
+    <id>https://imcsi.cn/2018/05/26/Laravel-cloudfile/</id>
+    <published>2018-05-26T17:06:19.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;laravel5结合七牛云存储图片&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首先去官网注册账号以及完成实名认证&lt;a href=&quot;https://www.qiniu.com/&quot;&gt;https://www.qiniu.com/&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="图片云存储" scheme="https://imcsi.cn/tags/%E5%9B%BE%E7%89%87%E4%BA%91%E5%AD%98%E5%82%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（队列）</title>
+    <link href="https://imcsi.cn/2018/05/24/Laravel-Queue/"/>
+    <id>https://imcsi.cn/2018/05/24/Laravel-Queue/</id>
+    <published>2018-05-24T15:49:01.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;首先是使用队列的原因&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例如&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;请求时间比较长，影响用户体验
+
+可以通过异步来处理
+
+不确定一次执行就能成功
+&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="队列" scheme="https://imcsi.cn/tags/%E9%98%9F%E5%88%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（事件监听）</title>
+    <link href="https://imcsi.cn/2018/05/12/Laravel-Event/"/>
+    <id>https://imcsi.cn/2018/05/12/Laravel-Event/</id>
+    <published>2018-05-12T11:46:26.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1.事件监听&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有时候我们需要在执行完一步操作后自动执行下一步事件，比如在用户购买商品后增加到购买记录的同时将商品增加到订单表中。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="事件监听" scheme="https://imcsi.cn/tags/%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（Cache）</title>
+    <link href="https://imcsi.cn/2018/03/23/Laravel-Cache/"/>
+    <id>https://imcsi.cn/2018/03/23/Laravel-Cache/</id>
+    <published>2018-03-23T14:54:51.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1,Cache的使用&lt;br&gt;Laravel目前支持流行的缓存后端包括Memcached和Redis等，下面说的是数据库缓存：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="cache" scheme="https://imcsi.cn/tags/cache/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（共享数据,debugbar）</title>
+    <link href="https://imcsi.cn/2018/03/23/Laravel-share-debugbar/"/>
+    <id>https://imcsi.cn/2018/03/23/Laravel-share-debugbar/</id>
+    <published>2018-03-23T14:54:47.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1.多视图共享数据&lt;br&gt;如题，如果我们有一些固定的网站内容，如联系方式，客服扣扣等，需要放在公用视图模板的头部或底部，如这样：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="debugbar" scheme="https://imcsi.cn/tags/debugbar/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（图片上传,裁剪）</title>
+    <link href="https://imcsi.cn/2018/03/23/Laravel-imgupload/"/>
+    <id>https://imcsi.cn/2018/03/23/Laravel-imgupload/</id>
+    <published>2018-03-23T14:54:43.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1.图片上传&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="上传" scheme="https://imcsi.cn/tags/%E4%B8%8A%E4%BC%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（UEditor,表单验证）</title>
+    <link href="https://imcsi.cn/2018/03/23/Laravel-UEditor-form/"/>
+    <id>https://imcsi.cn/2018/03/23/Laravel-UEditor-form/</id>
+    <published>2018-03-23T14:54:40.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1.富文本编辑器（UEditor）&lt;br&gt;laravel的依赖管理工具composer中可以快速的帮助我们集成ueditor到框架中，配置过程：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="UEditor" scheme="https://imcsi.cn/tags/UEditor/"/>
+    
+    <category term="表单验证" scheme="https://imcsi.cn/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel使用（ajax,模板继承,登陆验证,中间件）</title>
+    <link href="https://imcsi.cn/2018/03/23/Laravel-ajax-temp-check-middleware/"/>
+    <id>https://imcsi.cn/2018/03/23/Laravel-ajax-temp-check-middleware/</id>
+    <published>2018-03-23T14:54:18.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;1.ajax&lt;br&gt;使用ajax传递数据必须带上_token字段:&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="laravel" scheme="https://imcsi.cn/tags/laravel/"/>
+    
+    <category term="ajax" scheme="https://imcsi.cn/tags/ajax/"/>
+    
+    <category term="模板继承" scheme="https://imcsi.cn/tags/%E6%A8%A1%E6%9D%BF%E7%BB%A7%E6%89%BF/"/>
+    
+    <category term="登陆验证" scheme="https://imcsi.cn/tags/%E7%99%BB%E9%99%86%E9%AA%8C%E8%AF%81/"/>
+    
+    <category term="中间件" scheme="https://imcsi.cn/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker使用（Windows系统）</title>
+    <link href="https://imcsi.cn/2018/03/23/Docker-Windows/"/>
+    <id>https://imcsi.cn/2018/03/23/Docker-Windows/</id>
+    <published>2018-03-23T14:46:56.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;首先从Docker官网上面下载最新版本点击前往&lt;/p&gt;
+&lt;p&gt;安装过程可能会有点长，因为需要在线下载很多文件。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="Docker" scheme="https://imcsi.cn/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Thinkphp+jquery实现多图异步上传</title>
+    <link href="https://imcsi.cn/2018/03/23/Thinkphp-jquery-imgupload/"/>
+    <id>https://imcsi.cn/2018/03/23/Thinkphp-jquery-imgupload/</id>
+    <published>2018-03-23T14:43:35.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;网上查找了很多方法，有的多图上传是通过html添加多个input框type=file，然后在后台遍历循环$_FILES实现一张张上传图片。还有一种就是通过jq将图片转码成base64来将图片存储成字符串的形式，然后后台将获取到的字符串通过解码成图片文件保存，这里要说的就是这种方法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="tp" scheme="https://imcsi.cn/tags/tp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些小问题将全部总结在这里</title>
+    <link href="https://imcsi.cn/2018/03/23/questions/"/>
+    <id>https://imcsi.cn/2018/03/23/questions/</id>
+    <published>2018-03-23T14:41:06.000Z</published>
+    <updated>2022-04-22T08:31:08.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;1.使用TP3.2.3将项目部署到线上出现Undefined class constant ‘MYSQL_ATTR_INIT_COMMAND’的情况&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;是因为php没有开启Mysqlnd扩展，php5以上版本已经在使用mysqlnd驱动而非mysql，至于mysqlnd可自行百度了解。且在php7则正式移除了mysql扩展。&lt;/p&gt;
+&lt;p&gt;在使用phpinfo()打印php信息的时候并没有显示mysqlnd扩展&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://imcsi.cn/categories/PHP/"/>
+    
+    
+    <category term="php" scheme="https://imcsi.cn/tags/php/"/>
+    
+    <category term="git" scheme="https://imcsi.cn/tags/git/"/>
+    
+    <category term="qrcode" scheme="https://imcsi.cn/tags/qrcode/"/>
+    
+  </entry>
+  
+</feed>
